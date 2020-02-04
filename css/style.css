@@ -1,0 +1,83 @@
+body {
+    background: #1abc9c!important;
+}
+
+#dtBasicExample_length {
+    position: absolute;
+}
+
+#dtBasicExample_length label {
+    color: #fff!important;
+}
+
+#dtBasicExample_filter label {
+    color: #fff!important;
+}
+
+#headerModal {
+    background: #1abc9c!important;
+    color: #fff!important;
+}
+
+.validacao {
+    color: red;
+}
+
+#validaNome {
+    display: none;
+}
+
+#validaEmail {
+    display: none;
+}
+
+select {
+    border: none;
+}
+
+input[type="search"] {
+    display: block;
+    width: 100%;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+}
+
+.table-striped tbody tr:nth-of-type(odd) {
+    background-color: #ffffffd4!important;
+}
+
+.table-striped tbody tr:nth-of-type(even) {
+    background-color: #ffffff5c!important;
+}
+
+.current {
+    font-weight: bold!important;
+    color: #fff!important;
+    margin: 0px 5px 0px 5px;
+}
+
+.dataTables_info {
+    color: #fff!important;
+}
+
+.paginate_button {
+    color: #fff!important;
+    margin: 0px 5px 0px 5px;
+    cursor: pointer;
+}
+
+table th {
+    background: #fff!important;
+}
+
+.table-bordered {
+    border: none !important;
+    box-shadow: 5px 5px 10px #ffffff47!important;
+}
